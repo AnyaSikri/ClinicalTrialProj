@@ -15,11 +15,11 @@ The tool uses the ClinicalTrials.gov API to fetch trial data and processes it us
 
 ## Features
 
-- 🔍 Analyze specific clinical trials by NCT ID
-- 📊 Extract key information from complex trial data
-- 🧠 Ask custom questions about trials
-- 📝 Get summaries of eligibility criteria, outcomes, and safety data
-- 🚀 User-friendly interface built with Gradio
+- Analyze specific clinical trials by NCT ID
+- Extract key information from complex trial data
+- Ask custom questions about trials
+- Get summaries of eligibility criteria, outcomes, and safety data
+- User friendly interface built with Gradio
 
 ## Requirements
 

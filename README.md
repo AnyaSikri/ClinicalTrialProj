@@ -1,8 +1,8 @@
-# Clinical Trial Navigator
+## Clinical Trial Navigator
 
 A tool for analyzing and extracting insights from clinical trial data using the ClinicalTrials.gov API and language models.
 
-## Overview
+### Overview
 
 The Clinical Trial Navigator allows users to select specific clinical trials and ask questions about them, such as:
 - Trial summary information
@@ -13,7 +13,7 @@ The Clinical Trial Navigator allows users to select specific clinical trials and
 
 The tool uses the ClinicalTrials.gov API to fetch trial data and processes it using language models to generate human-readable insights.
 
-## Features
+### Features
 
 - Analyze specific clinical trials by NCT ID
 - Extract key information from complex trial data
@@ -21,12 +21,12 @@ The tool uses the ClinicalTrials.gov API to fetch trial data and processes it us
 - Get summaries of eligibility criteria, outcomes, and safety data
 - User friendly interface built with Gradio
 
-## Requirements
+### Requirements
 
 - Python 3.8+
 - OpenAI API key
 
-## Installation
+### Installation
 
 ```bash
 # Clone the repository
